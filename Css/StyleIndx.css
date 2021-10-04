@@ -1,0 +1,73 @@
+body{
+    background-color:rgb(37, 9, 9);
+}
+.pos-styl {
+    margin-left: 560px;
+}
+
+.sty-about,
+.sty-home,
+.sty-princ {
+
+    font-size: 25px;
+}
+
+.nav-link {
+    color: rgb(2, 0, 8);
+}
+
+.nav-link:hover {
+    color: rgb(105, 0, 65);
+    text-decoration: underline;
+
+}
+
+.sty-navb {
+    background-color: rgb(15, 15, 15);
+}
+
+.sty-txt-user {
+    color: rgb(62, 44, 144);
+    text-decoration: none;
+    font-size: 21px;
+}
+
+.sty-txt-user:hover {
+    color: rgb(44, 116, 144);
+    text-decoration: none;
+}
+
+.navbar-brand {
+    color: rgb(44, 116, 144);
+    font-size: 24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar-brand:hover {
+    color: rgb(37, 112, 197);
+}
+
+
+
+.sty-head{
+    border:1px solid rgb(161, 73, 73);
+    width: 230px;
+    background-color: rgb(177, 144, 55);
+    
+}
+
+.soushead{
+    color:rgb(91, 112, 64);
+    text-decoration: underline;
+    font-size: 24px;
+}
+
+.sty-bigTest{
+    color:rgba(104, 20, 20, 0.452);
+    font-size:24px
+}
+
+.stytest{
+    color:rgb(212, 211, 211);
+    font-size: 16px;
+}
